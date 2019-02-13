@@ -9,6 +9,9 @@ The folder "labels" contais the labels
 
 Available at https://www.dropbox.com/sh/r4x2zxulkp4kw95/AABVGCW3I9n-yzY70gvPBzpWa?dl=0
 
+https://www.dropbox.com/sh/ye8yja5hrhz3auy/AACSU_j0GFZlG48qNExXh-LKa?dl=0 - Images folder
+https://www.dropbox.com/sh/04fpa2mr761htue/AADRffr0_OkUTwoGEPhEZJfva?dl=0 - Labels folder
+
 If you use this dataset please cite the paper "Firearm Detection Using Convolutional Neural Networks"
 
 #Bibtex here
