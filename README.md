@@ -2,7 +2,7 @@
 Firearm Detection Using Convolutional Neural Networks
 
 This dataset contains 4646 images and labels.
-There are a a text file for each image with the same name. This file contained the number of labels in the image and the coordinates of the bounding boxes on each of these.
+There are a text file for each image with the same name. This file contained the number of labels in the image and the coordinates of the bounding boxes on each of these.
 
 The folder "gun" contains the images
 The folder "labels" contais the labels
