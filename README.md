@@ -14,7 +14,7 @@ https://www.dropbox.com/sh/04fpa2mr761htue/AADRffr0_OkUTwoGEPhEZJfva?dl=0 - Labe
 
 If you use this dataset please cite the paper "Firearm Detection Using Convolutional Neural Networks"
 
-@conference{icaart19,
+@conference{icaart19,\n
 author={Rodrigo Fumihiro de Azevedo Kanehisa. and Areolino de Almeida Neto.},
 title={Firearm Detection using Convolutional Neural Networks},
 booktitle={Proceedings of the 11th International Conference on Agents and Artificial Intelligence - Volume 2: ICAART,},
