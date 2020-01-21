@@ -7,6 +7,7 @@ There are a text file for each image with the same name. This file contained the
 The folder "gun" contains the positive images (gun images)
 The folder "negative" contains the negative images (non gun images)
 The folder "labels" contais the labels
+The folder "unlabeled" contains the original downloaded images**
 
 Available at https://www.dropbox.com/sh/r4x2zxulkp4kw95/AABVGCW3I9n-yzY70gvPBzpWa?dl=0
 
@@ -30,6 +31,7 @@ organization={INSTICC},<br>
 doi={10.5220/0007397707070714},<br>
 isbn={978-989-758-350-6},<br>
 }
+
 
 *There are no labels for the negative images since there are no objects (guns) to be detected there
 ** These are the original downloaded images, among the unlabed images there are some labeled images and images not containing firearms. If you want to label these images please contact me. 
